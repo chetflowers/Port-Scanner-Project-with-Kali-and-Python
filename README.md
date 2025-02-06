@@ -33,9 +33,11 @@ Port scanning is a fundamental step in network reconnaissance for both ethical h
    ```
 
 2.	**Run the Script**
-   
+
+   ```bash
    python3 port_scanner.py
-   
+   ```
+
 - When prompted, enter the target IP address (e.g., 192.168.1.27).
 - Then provide the starting and ending port numbers (e.g., 20 to 25).
 
