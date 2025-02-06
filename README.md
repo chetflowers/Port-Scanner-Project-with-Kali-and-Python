@@ -1,4 +1,4 @@
-# Port Scanner Project
+# Port Scanner Project with Kali and Python
 
 A beginner-friendly Python script for scanning ports on a specified IP address.  
 This project demonstrates basic cybersecurity and network concepts, such as  
