@@ -29,7 +29,7 @@ Port scanning is a fundamental step in network reconnaissance for both ethical h
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/chetflowers/port-scanner-project.git
+   git clone https://github.com/chetflowers/Port-Scanner-Project-with-Kali-and-Python.git
    cd port-scanner-project
 
 2. **Run the Script**
